@@ -15,10 +15,20 @@
   
 <div id="choropleth_map"></div>
 
+<div id="fertility_map"></div>
+
 <script type="text/javascript">
 
   var spec2 = "js/cost_of_living.json";
   vegaEmbed('#choropleth_map', spec2).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+</script>
+
+<script type="text/javascript">
+
+  var spec2 = "js/fertility_rate.json";
+  vegaEmbed('#fertility_map', spec2).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>

@@ -1,0 +1,121 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 450,
+  "title": "The world Fertility rate from 1960-2020",
+  "params": [
+    {
+      "name": "year_selection",
+      "value": 2010,
+      "bind": {
+        "input": "range",
+        "min": 1960,
+        "max": 2020,
+        "step": 1,
+        "name": "Year:  "
+      }
+    }
+  ],
+  "projection": {"type": "equalEarth"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/rguu0007/FIT3179W9/main/js/ne_110m_admin_0_countries.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "transform": [
+        {
+          "calculate": "'Data is not available in ' + datum.properties.NAME",
+          "as": "note"
+        }
+      ],
+      "mark": {"type": "geoshape", "fill": "gray", "stroke": "white"},
+      "encoding": {"tooltip": {"field": "note"}}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/rguu0007/FIT3179W9/main/js/oceans.topojson",
+        "format": {"type": "topojson", "feature": "oceans"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightblue"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/rguu0007/FIT3179W9/main/js/WorldMapWithGraticules.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+      },
+      "mark": {"type": "geoshape", "fill": null, "stroke": "gray"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/rguu0007/FIT3179W10/master/data/fertility_rate_long.csv"
+      },
+      "transform": [
+        {
+          "lookup": "Country",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/rguu0007/FIT3179W9/main/js/WorldMapWithGraticules.topojson",
+              "format": {
+                "type": "topojson",
+                "feature": "ne_110m_admin_0_countries"
+              }
+            },
+            "key": "properties.NAME"
+          },
+          "as": "geo"
+        },
+        {"filter": "datum.Year == year_selection"}
+      ],
+      "layer": [
+        {
+          "mark": {"type": "geoshape", "stroke": "white"},
+          "encoding": {
+            "shape": {"field": "geo", "type": "geojson"},
+            "color": {
+              "field": "Fertility_rate",
+              "type": "quantitative",
+              "scale": {"type": "linear", "scheme": "oranges"},
+              "title": "Fertility Rate"
+            },
+            "tooltip": [
+              {"field": "Country", "type": "nominal", "title": "Country"},
+              {
+                "field": "Fertility_rate",
+                "type": "quantitative",
+                "title": "Fertility Rate"
+              }
+            ]
+          }
+        },
+        {
+          "transform": [
+            {
+              "window": [{"op": "rank", "as": "ranking"}],
+              "sort": [{"field": "Fertility_rate", "order": "descending"}]
+            },
+            {"filter": "datum.ranking == 1"},
+            {
+              "calculate": "'The country with highest fertility rate in ' + datum.Year + ' is ' + datum.Country",
+              "as": "text_annotation_raw"
+            },
+            {
+              "calculate": "split(datum.text_annotation_raw, ';')",
+              "as": "text_annotation"
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "align": "right",
+            "dx": 230,
+            "dy": 160,
+            "baseline": "middle",
+            "fontSize": 18
+          },
+          "encoding": {"text": {"field": "text_annotation"}}
+        }
+      ]
+    }
+  ],
+  "config": {}
+}

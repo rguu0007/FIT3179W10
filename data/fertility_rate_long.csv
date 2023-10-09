@@ -39,7 +39,7 @@ Chile,1960,4.7
 China,1960,5.76
 Colombia,1960,6.74
 Comoros,1960,6.79
-Congo,1960,5.88
+Congo (Kinshasa),1960,5.88
 Costa Rica,1960,6.71
 Cote d'Ivoire,1960,7.69
 Croatia,1960,2.29
@@ -226,7 +226,7 @@ Chile,1961,4.66
 China,1961,5.91
 Colombia,1961,6.71
 Comoros,1961,6.85
-Congo,1961,5.92
+Congo (Kinshasa) (Kinshasa),1961,5.92
 Costa Rica,1961,6.65
 Cote d'Ivoire,1961,7.72
 Croatia,1961,2.25
@@ -413,7 +413,7 @@ Chile,1962,4.6
 China,1962,6.06
 Colombia,1962,6.66
 Comoros,1962,6.9
-Congo,1962,5.97
+Congo (Kinshasa),1962,5.97
 Costa Rica,1962,6.54
 Cote d'Ivoire,1962,7.75
 Croatia,1962,2.22
@@ -600,7 +600,7 @@ Chile,1963,4.54
 China,1963,6.21
 Colombia,1963,6.58
 Comoros,1963,6.94
-Congo,1963,6.01
+Congo (Kinshasa),1963,6.01
 Costa Rica,1963,6.39
 Cote d'Ivoire,1963,7.78
 Croatia,1963,2.18
@@ -787,7 +787,7 @@ Chile,1964,4.46
 China,1964,6.32
 Colombia,1964,6.48
 Comoros,1964,6.98
-Congo,1964,6.06
+Congo (Kinshasa),1964,6.06
 Costa Rica,1964,6.19
 Cote d'Ivoire,1964,7.81
 Croatia,1964,2.14
@@ -974,7 +974,7 @@ Chile,1965,4.36
 China,1965,6.39
 Colombia,1965,6.33
 Comoros,1965,7
-Congo,1965,6.1
+Congo (Kinshasa),1965,6.1
 Costa Rica,1965,5.96
 Cote d'Ivoire,1965,7.84
 Croatia,1965,2.1
@@ -1161,7 +1161,7 @@ Chile,1966,4.26
 China,1966,6.38
 Colombia,1966,6.16
 Comoros,1966,7.03
-Congo,1966,6.14
+Congo (Kinshasa),1966,6.14
 Costa Rica,1966,5.7
 Cote d'Ivoire,1966,7.87
 Croatia,1966,2.06
@@ -1348,7 +1348,7 @@ Chile,1967,4.14
 China,1967,6.32
 Colombia,1967,5.96
 Comoros,1967,7.04
-Congo,1967,6.18
+Congo (Kinshasa),1967,6.18
 Costa Rica,1967,5.42
 Cote d'Ivoire,1967,7.89
 Croatia,1967,2.03
@@ -1535,7 +1535,7 @@ Chile,1968,4.03
 China,1968,6.18
 Colombia,1968,5.74
 Comoros,1968,7.06
-Congo,1968,6.21
+Congo (Kinshasa),1968,6.21
 Costa Rica,1968,5.13
 Cote d'Ivoire,1968,7.91
 Croatia,1968,2.01
@@ -1722,7 +1722,7 @@ Chile,1969,3.9
 China,1969,5.99
 Colombia,1969,5.51
 Comoros,1969,7.06
-Congo,1969,6.24
+Congo (Kinshasa),1969,6.24
 Costa Rica,1969,4.85
 Cote d'Ivoire,1969,7.93
 Croatia,1969,1.99
@@ -1909,7 +1909,7 @@ Chile,1970,3.78
 China,1970,5.73
 Colombia,1970,5.28
 Comoros,1970,7.06
-Congo,1970,6.27
+Congo (Kinshasa),1970,6.27
 Costa Rica,1970,4.6
 Cote d'Ivoire,1970,7.94
 Croatia,1970,1.98
@@ -2096,7 +2096,7 @@ Chile,1971,3.65
 China,1971,5.4
 Colombia,1971,5.06
 Comoros,1971,7.06
-Congo,1971,6.29
+Congo (Kinshasa),1971,6.29
 Costa Rica,1971,4.37
 Cote d'Ivoire,1971,7.94
 Croatia,1971,1.97
@@ -2283,7 +2283,7 @@ Chile,1972,3.53
 China,1972,5.04
 Colombia,1972,4.86
 Comoros,1972,7.06
-Congo,1972,6.31
+Congo (Kinshasa),1972,6.31
 Costa Rica,1972,4.18
 Cote d'Ivoire,1972,7.94
 Croatia,1972,1.97
@@ -2470,7 +2470,7 @@ Chile,1973,3.41
 China,1973,4.64
 Colombia,1973,4.68
 Comoros,1973,7.06
-Congo,1973,6.32
+Congo (Kinshasa),1973,6.32
 Costa Rica,1973,4.02
 Cote d'Ivoire,1973,7.94
 Croatia,1973,1.96
@@ -2657,7 +2657,7 @@ Chile,1974,3.29
 China,1974,4.24
 Colombia,1974,4.53
 Comoros,1974,7.05
-Congo,1974,6.32
+Congo (Kinshasa),1974,6.32
 Costa Rica,1974,3.9
 Cote d'Ivoire,1974,7.93
 Croatia,1974,1.95
@@ -2844,7 +2844,7 @@ Chile,1975,3.18
 China,1975,3.86
 Colombia,1975,4.4
 Comoros,1975,7.05
-Congo,1975,6.32
+Congo (Kinshasa),1975,6.32
 Costa Rica,1975,3.8
 Cote d'Ivoire,1975,7.91
 Croatia,1975,1.94
@@ -3031,7 +3031,7 @@ Chile,1976,3.08
 China,1976,3.51
 Colombia,1976,4.29
 Comoros,1976,7.06
-Congo,1976,6.3
+Congo (Kinshasa),1976,6.3
 Costa Rica,1976,3.74
 Cote d'Ivoire,1976,7.88
 Croatia,1976,1.93
@@ -3218,7 +3218,7 @@ Chile,1977,2.98
 China,1977,3.2
 Colombia,1977,4.18
 Comoros,1977,7.06
-Congo,1977,6.26
+Congo (Kinshasa),1977,6.26
 Costa Rica,1977,3.69
 Cote d'Ivoire,1977,7.83
 Croatia,1977,1.91
@@ -3405,7 +3405,7 @@ Chile,1978,2.89
 China,1978,2.94
 Colombia,1978,4.07
 Comoros,1978,7.07
-Congo,1978,6.21
+Congo (Kinshasa),1978,6.21
 Costa Rica,1978,3.65
 Cote d'Ivoire,1978,7.76
 Croatia,1978,1.9
@@ -3592,7 +3592,7 @@ Chile,1979,2.81
 China,1979,2.75
 Colombia,1979,3.97
 Comoros,1979,7.08
-Congo,1979,6.14
+Congo (Kinshasa),1979,6.14
 Costa Rica,1979,3.62
 Cote d'Ivoire,1979,7.68
 Croatia,1979,1.9
@@ -3779,7 +3779,7 @@ Chile,1980,2.74
 China,1980,2.61
 Colombia,1980,3.86
 Comoros,1980,7.08
-Congo,1980,6.06
+Congo (Kinshasa),1980,6.06
 Costa Rica,1980,3.58
 Cote d'Ivoire,1980,7.59
 Croatia,1980,1.89
@@ -3966,7 +3966,7 @@ Chile,1981,2.69
 China,1981,2.55
 Colombia,1981,3.74
 Comoros,1981,7.07
-Congo,1981,5.96
+Congo (Kinshasa),1981,5.96
 Costa Rica,1981,3.55
 Cote d'Ivoire,1981,7.49
 Croatia,1981,1.88
@@ -4153,7 +4153,7 @@ Chile,1982,2.65
 China,1982,2.54
 Colombia,1982,3.63
 Comoros,1982,7.06
-Congo,1982,5.86
+Congo (Kinshasa),1982,5.86
 Costa Rica,1982,3.52
 Cote d'Ivoire,1982,7.38
 Croatia,1982,1.9
@@ -4340,7 +4340,7 @@ Chile,1983,2.62
 China,1983,2.56
 Colombia,1983,3.53
 Comoros,1983,7.03
-Congo,1983,5.75
+Congo (Kinshasa),1983,5.75
 Costa Rica,1983,3.5
 Cote d'Ivoire,1983,7.28
 Croatia,1983,1.88
@@ -4527,7 +4527,7 @@ Chile,1984,2.6
 China,1984,2.61
 Colombia,1984,3.43
 Comoros,1984,6.98
-Congo,1984,5.64
+Congo (Kinshasa),1984,5.64
 Costa Rica,1984,3.48
 Cote d'Ivoire,1984,7.18
 Croatia,1984,1.87
@@ -4714,7 +4714,7 @@ Chile,1985,2.59
 China,1985,2.65
 Colombia,1985,3.34
 Comoros,1985,6.92
-Congo,1985,5.54
+Congo (Kinshasa),1985,5.54
 Costa Rica,1985,3.46
 Cote d'Ivoire,1985,7.08
 Croatia,1985,1.82
@@ -4901,7 +4901,7 @@ Chile,1986,2.59
 China,1986,2.67
 Colombia,1986,3.27
 Comoros,1986,6.84
-Congo,1986,5.44
+Congo (Kinshasa),1986,5.44
 Costa Rica,1986,3.44
 Cote d'Ivoire,1986,6.98
 Croatia,1986,1.76
@@ -5088,7 +5088,7 @@ Chile,1987,2.59
 China,1987,2.64
 Colombia,1987,3.21
 Comoros,1987,6.75
-Congo,1987,5.35
+Congo (Kinshasa),1987,5.35
 Costa Rica,1987,3.41
 Cote d'Ivoire,1987,6.89
 Croatia,1987,1.64
@@ -5275,7 +5275,7 @@ Chile,1988,2.59
 China,1988,2.58
 Colombia,1988,3.16
 Comoros,1988,6.64
-Congo,1988,5.26
+Congo (Kinshasa),1988,5.26
 Costa Rica,1988,3.37
 Cote d'Ivoire,1988,6.8
 Croatia,1988,1.79
@@ -5462,7 +5462,7 @@ Chile,1989,2.59
 China,1989,2.46
 Colombia,1989,3.12
 Comoros,1989,6.53
-Congo,1989,5.19
+Congo (Kinshasa),1989,5.19
 Costa Rica,1989,3.32
 Cote d'Ivoire,1989,6.71
 Croatia,1989,1.63
@@ -5649,7 +5649,7 @@ Chile,1990,2.58
 China,1990,2.31
 Colombia,1990,3.08
 Comoros,1990,6.41
-Congo,1990,5.12
+Congo (Kinshasa),1990,5.12
 Costa Rica,1990,3.26
 Cote d'Ivoire,1990,6.62
 Croatia,1990,1.63
@@ -5836,7 +5836,7 @@ Chile,1991,2.56
 China,1991,2.14
 Colombia,1991,3.05
 Comoros,1991,6.29
-Congo,1991,5.06
+Congo (Kinshasa),1991,5.06
 Costa Rica,1991,3.19
 Cote d'Ivoire,1991,6.54
 Croatia,1991,1.53
@@ -6023,7 +6023,7 @@ Chile,1992,2.53
 China,1992,1.98
 Colombia,1992,3.01
 Comoros,1992,6.17
-Congo,1992,5.02
+Congo (Kinshasa),1992,5.02
 Costa Rica,1992,3.11
 Cote d'Ivoire,1992,6.45
 Croatia,1992,1.48
@@ -6210,7 +6210,7 @@ Chile,1993,2.48
 China,1993,1.84
 Colombia,1993,2.97
 Comoros,1993,6.05
-Congo,1993,4.98
+Congo (Kinshasa),1993,4.98
 Costa Rica,1993,3.03
 Cote d'Ivoire,1993,6.37
 Croatia,1993,1.52
@@ -6397,7 +6397,7 @@ Chile,1994,2.43
 China,1994,1.73
 Colombia,1994,2.92
 Comoros,1994,5.94
-Congo,1994,4.95
+Congo (Kinshasa),1994,4.95
 Costa Rica,1994,2.94
 Cote d'Ivoire,1994,6.3
 Croatia,1994,1.47
@@ -6584,7 +6584,7 @@ Chile,1995,2.37
 China,1995,1.66
 Colombia,1995,2.86
 Comoros,1995,5.84
-Congo,1995,4.93
+Congo (Kinshasa),1995,4.93
 Costa Rica,1995,2.85
 Cote d'Ivoire,1995,6.23
 Croatia,1995,1.58
@@ -6771,7 +6771,7 @@ Chile,1996,2.31
 China,1996,1.62
 Colombia,1996,2.8
 Comoros,1996,5.74
-Congo,1996,4.91
+Congo (Kinshasa),1996,4.91
 Costa Rica,1996,2.76
 Cote d'Ivoire,1996,6.15
 Croatia,1996,1.67
@@ -6958,7 +6958,7 @@ Chile,1997,2.24
 China,1997,1.61
 Colombia,1997,2.74
 Comoros,1997,5.64
-Congo,1997,4.9
+Congo (Kinshasa),1997,4.9
 Costa Rica,1997,2.66
 Cote d'Ivoire,1997,6.08
 Croatia,1997,1.69
@@ -7145,7 +7145,7 @@ Chile,1998,2.17
 China,1998,1.6
 Colombia,1998,2.68
 Comoros,1998,5.55
-Congo,1998,4.89
+Congo (Kinshasa),1998,4.89
 Costa Rica,1998,2.56
 Cote d'Ivoire,1998,6.01
 Croatia,1998,1.45
@@ -7332,7 +7332,7 @@ Chile,1999,2.11
 China,1999,1.6
 Colombia,1999,2.63
 Comoros,1999,5.47
-Congo,1999,4.88
+Congo (Kinshasa),1999,4.88
 Costa Rica,1999,2.46
 Cote d'Ivoire,1999,5.94
 Croatia,1999,1.38
@@ -7519,7 +7519,7 @@ Chile,2000,2.06
 China,2000,1.6
 Colombia,2000,2.57
 Comoros,2000,5.38
-Congo,2000,4.87
+Congo (Kinshasa),2000,4.87
 Costa Rica,2000,2.36
 Cote d'Ivoire,2000,5.87
 Croatia,2000,1.39
@@ -7706,7 +7706,7 @@ Chile,2001,2.01
 China,2001,1.6
 Colombia,2001,2.52
 Comoros,2001,5.31
-Congo,2001,4.86
+Congo (Kinshasa),2001,4.86
 Costa Rica,2001,2.28
 Cote d'Ivoire,2001,5.79
 Croatia,2001,1.46
@@ -7893,7 +7893,7 @@ Chile,2002,1.97
 China,2002,1.6
 Colombia,2002,2.46
 Comoros,2002,5.24
-Congo,2002,4.85
+Congo (Kinshasa),2002,4.85
 Costa Rica,2002,2.2
 Cote d'Ivoire,2002,5.71
 Croatia,2002,1.42
@@ -8080,7 +8080,7 @@ Chile,2003,1.94
 China,2003,1.6
 Colombia,2003,2.4
 Comoros,2003,5.17
-Congo,2003,4.85
+Congo (Kinshasa),2003,4.85
 Costa Rica,2003,2.12
 Cote d'Ivoire,2003,5.63
 Croatia,2003,1.41
@@ -8267,7 +8267,7 @@ Chile,2004,1.92
 China,2004,1.61
 Colombia,2004,2.33
 Comoros,2004,5.1
-Congo,2004,4.84
+Congo (Kinshasa),2004,4.84
 Costa Rica,2004,2.07
 Cote d'Ivoire,2004,5.55
 Croatia,2004,1.43
@@ -8454,7 +8454,7 @@ Chile,2005,1.91
 China,2005,1.61
 Colombia,2005,2.26
 Comoros,2005,5.04
-Congo,2005,4.83
+Congo (Kinshasa),2005,4.83
 Costa Rica,2005,2.02
 Cote d'Ivoire,2005,5.46
 Croatia,2005,1.5
@@ -8641,7 +8641,7 @@ Chile,2006,1.9
 China,2006,1.62
 Colombia,2006,2.2
 Comoros,2006,4.98
-Congo,2006,4.82
+Congo (Kinshasa),2006,4.82
 Costa Rica,2006,1.98
 Cote d'Ivoire,2006,5.38
 Croatia,2006,1.47
@@ -8828,7 +8828,7 @@ Chile,2007,1.9
 China,2007,1.62
 Colombia,2007,2.14
 Comoros,2007,4.93
-Congo,2007,4.81
+Congo (Kinshasa),2007,4.81
 Costa Rica,2007,1.95
 Cote d'Ivoire,2007,5.3
 Croatia,2007,1.48
@@ -9015,7 +9015,7 @@ Chile,2008,1.9
 China,2008,1.62
 Colombia,2008,2.08
 Comoros,2008,4.87
-Congo,2008,4.8
+Congo (Kinshasa),2008,4.8
 Costa Rica,2008,1.92
 Cote d'Ivoire,2008,5.22
 Croatia,2008,1.47
@@ -9202,7 +9202,7 @@ Chile,2009,1.89
 China,2009,1.62
 Colombia,2009,2.03
 Comoros,2009,4.81
-Congo,2009,4.78
+Congo (Kinshasa),2009,4.78
 Costa Rica,2009,1.9
 Cote d'Ivoire,2009,5.15
 Croatia,2009,1.5
@@ -9389,7 +9389,7 @@ Chile,2010,1.88
 China,2010,1.63
 Colombia,2010,1.99
 Comoros,2010,4.75
-Congo,2010,4.77
+Congo (Kinshasa),2010,4.77
 Costa Rica,2010,1.89
 Cote d'Ivoire,2010,5.09
 Croatia,2010,1.46
@@ -9576,7 +9576,7 @@ Chile,2011,1.87
 China,2011,1.63
 Colombia,2011,1.96
 Comoros,2011,4.69
-Congo,2011,4.74
+Congo (Kinshasa),2011,4.74
 Costa Rica,2011,1.87
 Cote d'Ivoire,2011,5.03
 Croatia,2011,1.41
@@ -9763,7 +9763,7 @@ Chile,2012,1.85
 China,2012,1.64
 Colombia,2012,1.93
 Comoros,2012,4.63
-Congo,2012,4.71
+Congo (Kinshasa),2012,4.71
 Costa Rica,2012,1.85
 Cote d'Ivoire,2012,4.97
 Croatia,2012,1.52
@@ -9950,7 +9950,7 @@ Chile,2013,1.82
 China,2013,1.65
 Colombia,2013,1.91
 Comoros,2013,4.56
-Congo,2013,4.68
+Congo (Kinshasa),2013,4.68
 Costa Rica,2013,1.84
 Cote d'Ivoire,2013,4.92
 Croatia,2013,1.46
@@ -10137,7 +10137,7 @@ Chile,2014,1.79
 China,2014,1.66
 Colombia,2014,1.88
 Comoros,2014,4.49
-Congo,2014,4.63
+Congo (Kinshasa),2014,4.63
 Costa Rica,2014,1.82
 Cote d'Ivoire,2014,4.87
 Croatia,2014,1.46
@@ -10324,7 +10324,7 @@ Chile,2015,1.75
 China,2015,1.67
 Colombia,2015,1.86
 Comoros,2015,4.42
-Congo,2015,4.59
+Congo (Kinshasa),2015,4.59
 Costa Rica,2015,1.81
 Cote d'Ivoire,2015,4.81
 Croatia,2015,1.41
@@ -10511,7 +10511,7 @@ Chile,2016,1.71
 China,2016,1.68
 Colombia,2016,1.84
 Comoros,2016,4.35
-Congo,2016,4.54
+Congo (Kinshasa),2016,4.54
 Costa Rica,2016,1.79
 Cote d'Ivoire,2016,4.76
 Croatia,2016,1.43
@@ -10698,7 +10698,7 @@ Chile,2017,1.68
 China,2017,1.68
 Colombia,2017,1.83
 Comoros,2017,4.28
-Congo,2017,4.48
+Congo (Kinshasa),2017,4.48
 Costa Rica,2017,1.77
 Cote d'Ivoire,2017,4.7
 Croatia,2017,1.42
@@ -10885,7 +10885,7 @@ Chile,2018,1.65
 China,2018,1.69
 Colombia,2018,1.81
 Comoros,2018,4.21
-Congo,2018,4.43
+Congo (Kinshasa),2018,4.43
 Costa Rica,2018,1.75
 Cote d'Ivoire,2018,4.65
 Croatia,2018,1.47
@@ -11072,7 +11072,7 @@ Chile,2019,1.63
 China,2019,1.7
 Colombia,2019,1.79
 Comoros,2019,4.14
-Congo,2019,4.37
+Congo (Kinshasa),2019,4.37
 Costa Rica,2019,1.74
 Cote d'Ivoire,2019,4.59
 Croatia,2019,1.47
@@ -11259,7 +11259,7 @@ Chile,2020,1.61
 China,2020,1.7
 Colombia,2020,1.77
 Comoros,2020,4.07
-Congo,2020,4.32
+Congo (Kinshasa),2020,4.32
 Costa Rica,2020,1.72
 Cote d'Ivoire,2020,4.54
 Croatia,2020,1.48
